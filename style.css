@@ -2,3 +2,8 @@ h1 {
     text-align: center;
     color: red;
 }
+
+img {
+    margin: 0 auto;
+    border-radius: 30px;
+}
