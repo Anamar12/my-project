@@ -7,4 +7,5 @@ img {
     margin: 20px auto;
     border-radius: 30px;
     border: 20px;
+    max-width: 60%;
 }
